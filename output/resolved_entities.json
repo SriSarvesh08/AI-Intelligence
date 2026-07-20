@@ -1,0 +1,61 @@
+[
+  {
+    "id": "ce52fbb4-2712-4ba0-97ef-82d4ed9defbc",
+    "company_name": "Anthropic",
+    "website": "https://anthropic.com",
+    "founders": [
+      "Dario Amodei",
+      "Daniela Amodei"
+    ],
+    "location": null,
+    "industry": null,
+    "description": null,
+    "products": [
+      "Claude"
+    ],
+    "technologies": [],
+    "keywords": [],
+    "confidence_score": 0.96
+  },
+  {
+    "id": "78113965-503b-4a97-9a53-b18e97dc2b28",
+    "company_name": "Google Inc.",
+    "website": "https://www.google.com/",
+    "founders": [
+      "L. Page",
+      "Larry Page",
+      "S. Brin",
+      "Sergey Brin"
+    ],
+    "location": "Mountain View, CA",
+    "industry": null,
+    "description": null,
+    "products": [
+      "Ads",
+      "Search"
+    ],
+    "technologies": [],
+    "keywords": [],
+    "confidence_score": 0.95
+  },
+  {
+    "id": "59bbc6ee-aebf-4159-9f25-582016b3bc94",
+    "company_name": "OpenAI LLC",
+    "website": "https://openai.com",
+    "founders": [
+      "Greg Brockman",
+      "Ilya Sutskever",
+      "Sam Altman"
+    ],
+    "location": "San Francisco, CA",
+    "industry": null,
+    "description": null,
+    "products": [
+      "ChatGPT",
+      "DALL-E"
+    ],
+    "technologies": [],
+    "keywords": [],
+    "confidence_score": 0.99
+  }
+]

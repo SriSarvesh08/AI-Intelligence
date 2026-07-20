@@ -1,0 +1,11 @@
+{
+  "total_records": 5,
+  "valid_records": 5,
+  "invalid_records": 0,
+  "warnings": [],
+  "confidence_distribution": {
+    "High (>0.9)": 3,
+    "Medium (0.7-0.9)": 2,
+    "Low (<0.7)": 0
+  }
+}
